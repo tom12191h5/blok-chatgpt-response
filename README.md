@@ -2,10 +2,9 @@
 As we all know, ChatGPT is a moral police force that doesn't care about facts but only censors. The purpose of this Chrome extension is to block ChatGPT's "compliant" responses.
 
 ## Language
-```markdown
-[English version](https://github.com/tom12191h5/blok-chatgpt-response/blob/main/README.md)
-[简体中文](https://github.com/tom12191h5/blok-chatgpt-response/blob/main/README_CN.md)
-```
+[English version](EADME.md)
+[简体中文](README_CN.md)
+
 
 ## Introduce
 This is a Chrome extension whose main function is to block useless compliance replies from ChatGPT. Specifically, it monitors ChatGPT's input in real time, and once it detects a keyword, such as "law," the script immediately stops ChatGPT's replies, protecting you from ChatGPT's "ethics police."
