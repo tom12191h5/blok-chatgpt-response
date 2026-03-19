@@ -23,4 +23,12 @@
 在这里我们可以看到，我们已经成功地屏蔽了 ChatGPT。
 <img width="1119" height="717" alt="截屏2026-03-19 22 14 52" src="https://github.com/user-attachments/assets/03845130-f2fb-4f26-b54a-815c7f975565" />
 
-
+## 其他：
+如果你发现代码用不了了，这代表ChatGPT更新了它们的网站。在Issues里告诉我，你需要提供这些信息：  
+1.按钮元素内容  
+2.ChatGPT输出元素内容  
+你可以这样获取这些信息：  
+进入Chatgpt里：  
+1.先打开开发者选项    
+2.先右键右下角按钮并选择“检查”，这样就可以定位到button的元素内容，然后要快速切换到“Soueces”标签下，立刻暂停页面（点击类似暂停的图标）！否则按钮会消失！然后把它发给我。  
+3.重新开始一个会话问chatgpt任意为题，此时，手速一定要快！选择chatgpt输出的文字，立刻右键“检查”！然后定位到chatgpt输出的文字的元素上，把完整的div发过来！（它看起来像：```<div class="markdown prose dark:prose-invert w-full wrap-break-word dark markdown-new-styling"><p data-start="0" data-end="91">```之类的）  
