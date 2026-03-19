@@ -2,10 +2,9 @@
 众所周知，ChatGPT 是一个道德警察组织，它不关心事实，只关心审查。这款 Chrome 扩展程序的目的就是屏蔽 ChatGPT 的“合规”回复。
 
 ## 语言
-```markdown
-[English version](https://github.com/tom12191h5/blok-chatgpt-response/blob/main/README.md)
-[简体中文](https://github.com/tom12191h5/blok-chatgpt-response/blob/main/README_CN.md)
-```
+[English version](README.md)
+[简体中文](README_CN.md)
+
 
 ## 简介
 这是一个 Chrome 扩展程序，其主要功能是屏蔽 ChatGPT 发送的无用合规性回复。具体来说，它会实时监控 ChatGPT 的输入，一旦检测到诸如“法律”之类的关键词，脚本就会立即停止 ChatGPT 的回复，从而保护您免受 ChatGPT “道德警察”的骚扰。
