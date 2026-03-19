@@ -22,4 +22,19 @@ Turn On:
 Here we can see that we successfully silenced ChatGPT.
 <img width="1119" height="773" alt="截屏2026-03-19 22 16 12" src="https://github.com/user-attachments/assets/a3fae62d-ace7-4a19-833e-c6adbf6a1d9c" />
 
-## 
+## Others
+If you find the code is unusable, it means ChatGPT has updated their website. Please let me know in the Issues section. You will need to provide the following information:
+
+1. Button element content
+
+2. ChatGPT output element content
+
+You can obtain this information as follows:
+
+Go to ChatGPT:
+
+1. First, open the developer options.
+
+2. Right-click the button in the lower right corner and select "Inspect". This will locate the button element content. Then, quickly switch to the "Sources" tab and immediately pause the page (click the pause icon)! Otherwise, the button will disappear! Then send it to me.
+
+3. Restart a session and ask ChatGPT any question. You must be quick! Select the text output by ChatGPT and immediately right-click and select "Inspect"! Then, locate the element containing the text output by ChatGPT and send me the complete div! (It looks like something like: <div class="markdown prose dark:prose-invert w-full wrap-break-word dark markdown-new-styling"><p data-start="0" data-end="91">)
