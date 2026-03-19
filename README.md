@@ -37,4 +37,4 @@ Go to ChatGPT:
 
 2. Right-click the button in the lower right corner and select "Inspect". This will locate the button element content. Then, quickly switch to the "Sources" tab and immediately pause the page (click the pause icon)! Otherwise, the button will disappear! Then send it to me.
 
-3. Restart a session and ask ChatGPT any question. You must be quick! Select the text output by ChatGPT and immediately right-click and select "Inspect"! Then, locate the element containing the text output by ChatGPT and send me the complete div! (It looks like something like: <div class="markdown prose dark:prose-invert w-full wrap-break-word dark markdown-new-styling"><p data-start="0" data-end="91">)
+3. Restart a session and ask ChatGPT any question. You must be quick! Select the text output by ChatGPT and immediately right-click and select "Inspect"! Then, locate the element containing the text output by ChatGPT and send me the complete div! (It looks like something like: ```<div class="markdown prose dark:prose-invert w-full wrap-break-word dark markdown-new-styling"><p data-start="0" data-end="91">```)
