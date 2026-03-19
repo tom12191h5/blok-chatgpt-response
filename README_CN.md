@@ -1,26 +1,27 @@
 # blok-chatgpt-response
-As we all know, ChatGPT is a moral police force that doesn't care about facts but only censors. The purpose of this Chrome extension is to block ChatGPT's "compliant" responses.
+众所周知，ChatGPT 是一个道德警察组织，它不关心事实，只关心审查。这款 Chrome 扩展程序的目的就是屏蔽 ChatGPT 的“合规”回复。
 
-## Language
+## 语言
 ```markdown
 [English version](README.md)
 [简体中文](README_CN.md)
 ```
 
-## Introduce
-This is a Chrome extension whose main function is to block useless compliance replies from ChatGPT. Specifically, it monitors ChatGPT's input in real time, and once it detects a keyword, such as "law," the script immediately stops ChatGPT's replies, protecting you from ChatGPT's "ethics police."
+## 简介
+这是一个 Chrome 扩展程序，其主要功能是屏蔽 ChatGPT 发送的无用合规性回复。具体来说，它会实时监控 ChatGPT 的输入，一旦检测到诸如“法律”之类的关键词，脚本就会立即停止 ChatGPT 的回复，从而保护您免受 ChatGPT “道德警察”的骚扰。
 
-## How To Use
-1. All you need to do is enable developer mode on the Chrome extensions page "chrome://extensions/", select "Load unpackaged extensions", select the folder "chatgpt-auto-stop" and upload it. The code will then run as expected!
-2. The script provides a visual interface; you can drag the red dot in the upper right corner to change the tray position, choose to temporarily stop the script, and add custom content.
+## 如何使用
+1. 您只需在 Chrome 扩展程序页面“chrome://extensions/”启用开发者模式，选择“加载未打包的扩展程序”，然后选择“chatgpt-auto-stop”文件夹并上传即可。代码随后即可正常运行！
 
-## Demonstration
-Turn Off:
-Here you can see that the idiot moral police ChatGPT is still talking!
-<img width="1119" height="773" alt="截屏2026-03-19 22 17 01" src="https://github.com/user-attachments/assets/8a5b7369-5afa-489c-9a3b-a566ec24c649" />
+2. 该脚本提供了一个可视化界面；您可以拖动右上角的红点来更改托盘位置，选择暂时停止脚本，以及添加自定义内容。
 
-Turn On:
-Here we can see that we successfully silenced ChatGPT.
-<img width="1119" height="773" alt="截屏2026-03-19 22 16 12" src="https://github.com/user-attachments/assets/a3fae62d-ace7-4a19-833e-c6adbf6a1d9c" />
+## 演示
+脚本关闭:
+你看，那个愚蠢的道德警察 ChatGPT 还在喋喋不休！
+<img width="1119" height="773" alt="截屏2026-03-19 22 15 12" src="https://github.com/user-attachments/assets/82a83110-4e09-482d-b4fa-b7a61e902e64" />
 
-## 
+脚本开启:
+在这里我们可以看到，我们已经成功地屏蔽了 ChatGPT。
+<img width="1119" height="717" alt="截屏2026-03-19 22 14 52" src="https://github.com/user-attachments/assets/03845130-f2fb-4f26-b54a-815c7f975565" />
+
+
