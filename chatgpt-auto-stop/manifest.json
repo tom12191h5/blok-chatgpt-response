@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGPT 自动停止器",
+  "version": "1.1",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["*://chatgpt.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle" 
+    }
+  ]
+}
