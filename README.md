@@ -3,8 +3,8 @@ As we all know, ChatGPT is a moral police force that doesn't care about facts bu
 
 ## Language
 ```markdown
-[English version](README.md)
-[简体中文](README_CN.md)
+[English version](https://github.com/tom12191h5/blok-chatgpt-response/blob/main/README.md)
+[简体中文](https://github.com/tom12191h5/blok-chatgpt-response/blob/main/README_CN.md)
 ```
 
 ## Introduce
